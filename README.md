@@ -8,7 +8,7 @@ https://Verbatum/aleksey-kuzmenchuk.github.io/webdev-cw-instapro/
 
 ## Первоначальная оценка
 
-50 часов
+72 часа
 
 ## Фактически затраченное время
 
